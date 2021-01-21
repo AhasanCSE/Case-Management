@@ -1,0 +1,2 @@
+[11-Nov-2019 02:20:46 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/freelancerworld/public_html/advocate/login_action.php on line 38
+[11-Nov-2019 02:39:57 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/freelancerworld/public_html/advocate/login_action.php on line 38
